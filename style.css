@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(252, 186, 88);
+    font-style: arial;
+}
+.container{
+    display: flex;
+    
+    width: 100vw;
+    justify-content: center;
+    padding-top: 125px;
+    color: rgb(82, 35, 41);
+    font-size: 2rem;
+    font-style: italic;
+
+}
+P{
+    padding-left: 85px;
+    padding-right: 85px;
+    font-size: 2em;
+    border-width: 5px;
+    border-color: brown;
+    border-style: solid;
+    border-radius: 2%;
+    bor
+    
+}
